@@ -41,4 +41,4 @@ The work here follows a few habits: self-hosted where it can be, evidence over a
 
 ### Also
 
-- **[CivicMirror](https://github.com/CivicMirror)** — Walter's other venture, in its own organization: a civic-data platform that normalizes election data into a unified API. Live at [civicmirror.app](https://civicmirror.app).
+- **[CivicMirror](https://github.com/CivicMirror)** — In its own organization: a civic-data platform that normalizes election data into a unified API. Live at [civicmirror.app](https://civicmirror.app).
