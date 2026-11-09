@@ -12,17 +12,17 @@ The work here follows a few habits: self-hosted where it can be, evidence over a
 
 ### Home inventory — the Nestarr suite
 
-- **[Nestarr](https://github.com/Cordonnier-Software/Nestarr)** — A home inventory system: know what you own, where it is, and what it's worth.
+- **[Nestarr](https://github.com/Cordonnier-Software/Nestarr)** — A home inventory system: know what you own, where it is, and what it's worth. Live at [nestarr.com](https://nestarr.com).
 - **[Android-Nestarr](https://github.com/Cordonnier-Software/Android-Nestarr)** — The Android companion app for the inventory.
 - **[HA-Nestarr](https://github.com/Cordonnier-Software/HA-Nestarr)** — The Home Assistant integration for Nestarr.
 
 ### Gig work
 
-- **[GigTracker](https://github.com/Cordonnier-Software/GigTracker)** — An all-in-one application to track gig work: earnings, mileage, and expenses, kept dash by dash instead of reconstructed at tax time.
+- **[GigTracker](https://github.com/Cordonnier-Software/GigTracker)** — An all-in-one application to track gig work: earnings, mileage, and expenses, kept dash by dash instead of reconstructed at tax time. Live at [gigtracker.work](https://gigtracker.work).
 
 ### RV life
 
-- **[RV_Interchange](https://github.com/Cordonnier-Software/RV_Interchange)** — An app specializing in RV parts and sales: Hollander-style interchange lookup, so you can cross-reference what fits what before you buy.
+- **[RV_Interchange](https://github.com/Cordonnier-Software/RV_Interchange)** — An app specializing in RV parts and sales: Hollander-style interchange lookup, so you can cross-reference what fits what before you buy. Live at [rvinterchange.com](https://rvinterchange.com).
 - **[RVLevel](https://github.com/Cordonnier-Software/RVLevel)** — A simple Android RV leveling system for getting a parked rig flat and settled.
 
 ### Home & energy
@@ -41,4 +41,4 @@ The work here follows a few habits: self-hosted where it can be, evidence over a
 
 ---
 
-*Built by Walter "tokendad" LeFort · Sutton, Massachusetts · [cordonniersoftware.com](https://cordonniersoftware.com)*
+*Built by Walter "tokendad" LeFort · Sutton, Massachusetts · [cordonniersoftware.com](https://cordonniersoftware.com) (landing page coming soon)*
