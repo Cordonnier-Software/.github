@@ -39,6 +39,6 @@ The work here follows a few habits: self-hosted where it can be, evidence over a
 - **[CivicDeNovo](https://github.com/Cordonnier-Software/CivicDeNovo)** — A virtual governance game: build a government from scratch — *de novo* — and run it.
 - **[SeaQuacks](https://github.com/Cordonnier-Software/SeaQuacks)** — A cruise duck hunt game. Yes, the rubber ducks people hide on cruise ships. Hunt them.
 
----
+### Also
 
-*Built by Walter "tokendad" LeFort · Sutton, Massachusetts · [cordonniersoftware.com](https://cordonniersoftware.com) (landing page coming soon)*
+- **[CivicMirror](https://github.com/CivicMirror)** — Walter's other venture, in its own organization: a civic-data platform that normalizes election data into a unified API. Live at [civicmirror.app](https://civicmirror.app).
