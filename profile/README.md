@@ -38,7 +38,7 @@ The work here follows a few habits: self-hosted where it can be, evidence over a
 
 ### Games
 
-- **[CivicDeNovo](https://github.com/Cordonnier-Software/CivicDeNovo)** — A virtual governance game: build a government from scratch — *de novo* — and run it.
+- **[CivicDeNovo](https://github.com/Cordonnier-Software/CivicDeNovo)** — A virtual governance game: build a government from scratch — *de novo* — and run it. Live at [civicdenovo.cordonniersoftware.com](https://civicdenovo.cordonniersoftware.com).
 - **[SeaQuacks](https://github.com/Cordonnier-Software/SeaQuacks)** — A cruise duck hunt game. Yes, the rubber ducks people hide on cruise ships. Hunt them.
 
 ### Also
