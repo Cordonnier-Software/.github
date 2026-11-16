@@ -2,6 +2,8 @@
 
 **Cordonnier** — French for *shoemaker*, the trade of four generations of the LeFort family — is the home of the software built by Walter LeFort in Sutton, Massachusetts.
 
+**On the web:** [cordonniersoftware.com](https://cordonniersoftware.com)
+
 The work here follows a few habits: self-hosted where it can be, evidence over assumption, and built to solve a real problem in front of the builder — a family tree that shows its sources, a parts lookup that knows what fits, a tracker that keeps a gig worker's numbers honest.
 
 ## Projects
